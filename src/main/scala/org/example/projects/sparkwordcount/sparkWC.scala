@@ -1,4 +1,4 @@
-package org.example.sparkwordcount
+package org.example.projects.sparkwordcount
 
 import org.apache.spark.{SparkConf, SparkContext}
 
