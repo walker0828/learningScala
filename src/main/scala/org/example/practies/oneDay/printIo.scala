@@ -1,4 +1,4 @@
-package org.example.practise.oneDay
+package org.example.practies.oneDay
 
 import scala.io.StdIn
 import scala.reflect.internal.util.StringOps

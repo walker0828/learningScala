@@ -1,4 +1,4 @@
-package org.example.practise.twoDay
+package org.example.practies.twoDay
 
 object FailingFn {
   def failingFn(i: Int): Int = {

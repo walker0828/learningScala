@@ -1,4 +1,4 @@
-package org.example.practise.twoDay
+package org.example.practies.twoDay
 
 object tuple {
   def test() = {
