@@ -1,4 +1,4 @@
-package org.example.practies.oneDay
+package org.example.practise.oneDay
 
 object OneModule {
   //做 绝对值
