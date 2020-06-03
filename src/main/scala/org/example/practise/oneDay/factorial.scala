@@ -1,4 +1,4 @@
-package org.example.practies.oneDay
+package org.example.practise.oneDay
 
 object factorial {
   def fib(n : Int):Int = {

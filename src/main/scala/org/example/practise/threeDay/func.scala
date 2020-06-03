@@ -1,4 +1,4 @@
-package org.example.practies.threeDay
+package org.example.practise.threeDay
 
 import scala.collection.mutable.ArrayBuffer
 

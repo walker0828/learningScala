@@ -1,4 +1,4 @@
-package org.example.practies.oneDay
+package org.example.practise.oneDay
 
 import OneModule.abs
 class TestOne {
